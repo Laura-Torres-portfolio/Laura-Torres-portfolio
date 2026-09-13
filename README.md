@@ -12,3 +12,10 @@
 💡 I’m looking to collaborate on projects involving QA testing, data validation, or process optimization.
 
 📫 Feel free to reach out with project suggestions or networking opportunities!
+
+### 📊 Repositories Overview
+
+| Repository | Link |
+| :--- | :--- |
+| **ISO Quality Automation Engine** | [View Project](https://github.com/Laura-Torres-portfolio/iso-quality-automation-engine) |
+| **Allergen Label Control** | [View Project](https://github.com/Laura-Torres-portfolio/allergen_label_control) |
